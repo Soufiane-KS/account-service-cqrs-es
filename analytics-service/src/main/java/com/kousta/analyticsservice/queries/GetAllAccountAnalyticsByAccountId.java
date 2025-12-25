@@ -7,5 +7,5 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Getter @NoArgsConstructor
 public class GetAllAccountAnalyticsByAccountId {
-    private String accountId;
+    private String accountId ;
 }
